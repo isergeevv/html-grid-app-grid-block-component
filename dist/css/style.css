@@ -1,0 +1,15 @@
+.app-element[data-type=component][data-label=block] {
+  display: flex;
+  flex-direction: column;
+}
+.app-element[data-type=component][data-label=block] > .component-head {
+  width: 100%;
+  padding: 0.5rem;
+  background-color: #5f5f5f;
+}
+.app-element[data-type=component][data-label=block] > .component-body {
+  width: 100%;
+  padding: 0.5rem;
+}
+
+/*# sourceMappingURL=style.css.map */
