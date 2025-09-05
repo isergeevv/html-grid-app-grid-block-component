@@ -1,5 +1,5 @@
 {
-  "name": "@isergeevv/html-grid-app-grid-block-component",
+  "name": "@isergeevv/html-grid-app-block-component",
   "version": "0.0.2",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isergeevv/html-grid-app-base.git"
+    "url": "git+https://github.com/isergeevv/html-grid-app-block-component.git"
   },
   "publishConfig": {
     "@isergeevv:registry": "https://npm.pkg.github.com"
